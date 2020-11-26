@@ -70,8 +70,7 @@ function switchAge(age) {
                   break;
                   default: return "you have an age";
                 }
-          
-  
+
+
 
 }
-  
